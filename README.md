@@ -1,4 +1,4 @@
-# onehundredd-css
+# onehundred-css
 ---
 A simple 16 column css grid
 
