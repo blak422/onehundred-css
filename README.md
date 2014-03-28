@@ -1,6 +1,31 @@
 # onehundred-css
----
+
 A simple 16 column css grid
+---
+## Introduction
+
+Inpired by the simplicity of the [1% CSS Grid](http://onepcssgrid.mattimling.com/) I
+took the approach and tried to make it work full screen. So far so good.
+
+## What is 100% CSS
+
+100% CSS Grid is a 16 column fluid system. It aims to serve as a base for building
+responsive websites with ease. It will take care of most of the resizing for
+you without having to build for different platforms.
+
+100% CSS Grid aims to adapt to all screen resolutions without having a base resolution.
+
+The base column class (.col1) is 4.8438% wide with a right margin of 1.5%.
+
+## Testing
+
+So far it has only been tested in Chromium and Fireforx on a Ubuntu PC.
+
+## Todo
+
+- [] Test in Windows (IE, Chrome, Safari, etc)
+- [] Test image resizing
+- [] Add media queries for different resolutions
 
 ## License
 
