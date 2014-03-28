@@ -1,7 +1,7 @@
 # onehundred-css
-
-A simple 16 column css grid
 ---
+A simple 16 column css grid
+
 ## Introduction
 
 Inpired by the simplicity of the [1% CSS Grid](http://onepcssgrid.mattimling.com/) I
@@ -23,9 +23,9 @@ So far it has only been tested in Chromium and Fireforx on a Ubuntu PC.
 
 ## Todo
 
-- [] Test in Windows (IE, Chrome, Safari, etc)
-- [] Test image resizing
-- [] Add media queries for different resolutions
+- [ ] Test in Windows (IE, Chrome, Safari, etc)
+- [ ] Test image resizing
+- [ ] Add media queries for different resolutions
 
 ## License
 
