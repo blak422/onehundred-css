@@ -25,7 +25,7 @@ So far it has only been tested in Chromium and Fireforx on a Ubuntu PC.
 
 - [ ] Test in Windows (IE, Chrome, Safari, etc)
 - [ ] Test image resizing
-- [ ] Add media queries for different resolutions
+- [x] Add media queries for small screens
 
 ## License
 
